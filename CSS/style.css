@@ -19,7 +19,6 @@ span{
 
 main div{
     width: 1050px;
-    height: 1000px;
 }
 
 #span_special{
@@ -40,4 +39,8 @@ thead{
 .tr_color{
     text-align: start;
     background-color: lightcyan;
+}
+
+h4{
+    color: grey;
 }
