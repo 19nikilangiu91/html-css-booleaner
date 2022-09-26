@@ -1,43 +1,24 @@
 .square_blue_header{
-    background-color:#33c0ff;
+    background-color: blue;
     width: 1050px;
     height: 100px;
-    background-image: url(../img/pattern.png);
-    background-repeat: repeat-y space;
-    background-size: contain;
 }
 
-.pattern{
-    background-repeat: repeat-y;
-    background-size: contain;
-    width: 100px;
-    height:100px;
-}
-
-.the_booleaner_logo{
+.the_booleaner{
     width: 150px;
     height: 150px;
-}
-
-.square_bottom_header{
-    width: 1050px;
-    height: 100%;
 }
 
 .p_header{
     color: grey;
 }
 
-#span_the_booleaner{
-    color:#33c0ff;
+span{
+    color: blue;
 }
 
 main div{
     width: 1050px;
-}
-
-.descrizione_photos{
-    font-size: 12px;
 }
 
 #span_special{
@@ -48,56 +29,18 @@ main div{
 table{
     width: 1050px;
     height: 100px;
-    margin: auto;
 }
 
 thead{
      text-align: center;
-     background-color:#33c0ff;
-     color: white;
+     background-color: aqua;
 }
 
 .tr_color{
     text-align: start;
-    background-color: #a5e3ff;
-}
-
-footer{
-    width: 1050px;
-    height: 100%;
+    background-color: lightcyan;
 }
 
 h4{
     color: grey;
-}
-
-.monitor{
-    background-image: url(../img/monitor.jpg);
-    background-repeat: no-repeat;
-    width: 312px;
-    height: 208px;
-    position: relative;
-}
-
-#text_monitor{
-    font-size: 20px;
-    margin-left: 10px;
-    color: white;
-    position: absolute;
-}
-
-.graph{
-    background-image: url(../img/graph.jpg);
-    background-repeat: no-repeat;
-    width: 311px;
-    height: 207px;
-    position: relative;
-    margin-top: 20px;
-}
-
-#text_graph{
-    font-size: 20px;;
-    margin-left: 10px;
-    color: white;
-    position: absolute;
 }
