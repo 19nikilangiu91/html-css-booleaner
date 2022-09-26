@@ -1,10 +1,43 @@
 .square_blue_header{
-    background-color: lightblue;
-    width: 1000px;
+    background-color: blue;
+    width: 1050px;
     height: 100px;
 }
 
 .the_booleaner{
     width: 150px;
     height: 150px;
+}
+
+.p_header{
+    color: grey;
+}
+
+span{
+    color: blue;
+}
+
+main div{
+    width: 1050px;
+    height: 1000px;
+}
+
+#span_special{
+    background-color: yellow;
+    color: black;
+}
+
+table{
+    width: 1050px;
+    height: 100px;
+}
+
+thead{
+     text-align: center;
+     background-color: aqua;
+}
+
+.tr_color{
+    text-align: start;
+    background-color: lightcyan;
 }
